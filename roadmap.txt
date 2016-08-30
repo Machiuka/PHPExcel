@@ -1,0 +1,10 @@
+PHP (tb instalat Uniform Server Zero)
+
+1 deschide excel
+2 itereaza liniile si verifica scadentele.
+3 creeaza un sir text cu toate scadentele
+4 trimite sirul text pe email (vezi http://www.uniformserver.com/ZeroXI_documentation/general_msmtp_intro.html) - merge doar gmail
+
+EXCEL
+
+1. Cand se bifeaza ca realizat scrie noua scadenta
